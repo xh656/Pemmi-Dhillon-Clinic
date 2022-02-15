@@ -8,8 +8,8 @@ Make sure you have xampp app,
 
 1- unzip the file in xampp file root is \xampp\htdocs
 
-2- make sure the file is unzipped there.
+2- make sure the file doctor-appointment-management-system is unzipped in folder htdocs.
 
 3- turn on Apache, and MySQL.
 
-4- Enjoy the website.
+4- Enjoy the website. Click on index.html
